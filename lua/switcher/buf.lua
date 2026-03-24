@@ -15,7 +15,7 @@ local popup_options = {
     }
   },
   win_options = {
-    winhighlight = 'Normal:Normal,Cursor:BHCursor'
+    winhighlight = 'Float:Float'
   }
 }
 
